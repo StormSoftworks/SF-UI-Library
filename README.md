@@ -1,4 +1,4 @@
-# SF-UI-Library
+# SF-UI-Library (OPEN SOURCE SO YOU CANT SAY ITS VIRUS)
 An normal ui library made by not_void.dev.
 
 --example window
