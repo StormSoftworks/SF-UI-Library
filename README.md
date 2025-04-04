@@ -39,6 +39,7 @@ local buttong = tab:CreateButton({
 local label = tab:CreateLabel({
 	Name = "test label";
 	Description = "in the feature it will allow more text :("
+
 })
 
 --example label
@@ -56,3 +57,4 @@ local switch = tab:CreateSwitch({
 })
 
 -- slider will be in the feature!
+![Screenshot 2025-04-04 220802](https://github.com/user-attachments/assets/c7a52225-fa6c-4c0e-ab2a-730abeb4b465)
