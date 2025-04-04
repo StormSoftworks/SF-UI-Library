@@ -2,6 +2,9 @@ local field = loadstring(game:HttpGet("https://raw.githubusercontent.com/StormSo
 local UIS = game:GetService('UserInputService')
 local TS = game:GetService('TweenService')
 
+--example notification
+local notify = field:Notification({Text = "blah blah blah"; Duration = 5  }) --duration is optional (default = 3)
+
 --example window
 local gui = field:NewGUI({
 	UIName = "example";
